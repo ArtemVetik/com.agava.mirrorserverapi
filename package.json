@@ -1,0 +1,21 @@
+{
+  "name": "com.agava.mirrorserverapi",
+  "version": "0.0.1",
+  "displayName": "Mirror Server Api",
+  "unity": "2022.3",
+  "description": "API for creating and connecting to your own mirror servers.",
+  "keywords": [
+    "Mirror",
+    "API",
+    "Networking",
+    "Server"
+  ],
+  "license": "MIT",
+  "samples": [
+    {
+      "displayName": "Tanks Demo",
+      "description": "Contains sample tanks game.",
+      "path": "Samples~/TanksDemo"
+    }
+  ]
+}

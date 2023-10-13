@@ -1,0 +1,20 @@
+{
+    "name": "Agava.MirrorServerApi.Samples.TanksDemo",
+    "rootNamespace": "Agava.MirrorServerApi.Samples.TanksDemo",
+    "references": [
+        "GUID:30817c1a0e6d646d99c048fc403f5979",
+        "GUID:72872094b21c16e48b631b2224833d49",
+        "GUID:627104647b9c04b4ebb8978a92ecac63",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:cb35cb12a6f4aef48bf3ac1d3b09d917"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
